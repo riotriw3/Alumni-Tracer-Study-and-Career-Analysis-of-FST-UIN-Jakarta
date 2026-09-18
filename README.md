@@ -1,5 +1,4 @@
 # Alumni-Tracer-Study-and-Career-Analysis-of-FST-UIN-Jakarta
-
 ## Project Overview
 
 This project analyzes **Alumni Tracer Study data from the Faculty of Science and Technology (FST), UIN Jakarta** to understand alumni profiles, educational backgrounds, career outcomes, study duration, and curriculum relevance.
